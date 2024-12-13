@@ -1,6 +1,6 @@
 baseURL: 'https://cineskeptic.netlify.app'
 languageCode: 'en-uk'
-title: 'Hugo Demo'
+title: 'CineSkeptic'
 theme: 'PaperMod'
 
 params:
