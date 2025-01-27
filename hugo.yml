@@ -12,7 +12,9 @@ params:
       url: 'www.facebook.com'
     - name: twitter
       url: 'www.twitter.com'
-
+  analytics:
+    google:
+      SiteVerificationTag: "cG0Q_dXC9Zu57e08V-Uqll4"
   cover:
     linkFullImages: true
 
